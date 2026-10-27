@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+sympy
+pulp
+scikit-learn
+notebook
