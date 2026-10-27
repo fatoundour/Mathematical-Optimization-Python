@@ -68,7 +68,7 @@ jupyter notebook
 
 ### Étape 4 : Ouvrir les notebooks
 Les fichiers `.ipynb` sont autoportants : ils contiennent à la fois le code, la documentation et les exemples.
-Pour plus de tests veuillez suivre le shéma des exemples dans la fin de chaque notebook, ajouter une cellule de code et exécutez la.
+Pour effectuer d'autres tests, suivez les exemples présentés à la fin de chaque notebook, ajoutez une cellule de code et exécutez-la.
 
 ## 📦 Tester les scripts Python
 
@@ -212,4 +212,4 @@ Pour tester Nash.py et Hermite.py, commencez avec des matrices 2×2 simples, pui
 
 ---
 
-Projet universitaire collaboratif. Les implémentations sont fournies à titre pédagogique ; leur exactitude sur tous les cas a été vérifiée dans le cadre de cette mise en ligne.
+Projet universitaire collaboratif. Les implémentations sont fournies à titre pédagogique ; leur exactitude sur tous les cas n'a pas été vérifiée dans le cadre de cette mise en ligne.
