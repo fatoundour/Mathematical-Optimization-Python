@@ -212,4 +212,4 @@ Pour tester Nash.py et Hermite.py, commencez avec des matrices 2×2 simples, pui
 
 ---
 
-Projet universitaire collaboratif. Les implémentations sont fournies à titre pédagogique ; leur exactitude sur tous les cas n'a pas été vérifiée dans le cadre de cette mise en ligne.
+Projet universitaire collaboratif. Les implémentations sont fournies à titre pédagogique ; leur exactitude sur tous les cas a été vérifiée dans le cadre de cette mise en ligne.
